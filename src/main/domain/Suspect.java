@@ -106,8 +106,8 @@ public class Suspect {
 
 	@Override
 	public String toString() {
-		return "Suspect [name=" + name + ", hairColor=" + hairColor + ", hasGlasses=" + hasGlasses + ", facialHair="
-				+ facialHair + ", shirt=" + shirt + ", pants=" + pants + ", shoes=" + shoes + ", birthYear=" + birthYear
+		return "\nSuspect [Name: " + name + ", HairColor: " + hairColor + ", HasGlasses: " + hasGlasses + ", FacialHair: "
+				+ facialHair + ", Shirt: " + shirt + ", Pants: " + pants + ", Shoes: " + shoes + ", BirthYear: " + birthYear
 				+ "]";
 	}
 	
